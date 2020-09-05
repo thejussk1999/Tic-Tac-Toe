@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A simple TIC TAC Toe developed using Python
+A simple TIC TAC Toe developed using Tkinter library of Python
